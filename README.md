@@ -40,7 +40,3 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"  />
-
-###
