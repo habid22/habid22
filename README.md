@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Hassan Amin and I'm a Software Engineering Student from Western University</h2>
+<h3 align="left">Hi! I'm Hassan Amin 👋</h3>
 
 ###
 
-<img align="right" height="150" src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"  />
+<h4 align="left">A Software Engineering Student at Western University</h4>
 
 ###
 
@@ -38,5 +38,9 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img align="right" height="150" src="https://media1.tenor.com/m/Fp2r1Rgm8M0AAAAC/ryosuke-takahashi-initial-d.gif"  />
 
 ###
