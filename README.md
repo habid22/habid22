@@ -4,11 +4,11 @@
 
 ###
 
-<h3 align="left">Hi! I'm Hassan Amin 👋</h3>
+<h3 align="left">Hi! I'm Hassan 👋</h3>
 
 ###
 
-<h4 align="left">A Software Engineering Student at Western University</h4>
+<h4 align="left">A Software Engineering Student</h4>
 
 ###
 
