@@ -1,63 +1,72 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/habid22/count.svg?"  />
-</div>
+## Hassan's GitHub! 🌟
 
-###
+Hello 🙂 my name is Hassan. I'm a third-year Software Engineering student at Western University with a strong passion for full-stack development, artificial intelligence, and building meaningful technology. I enjoy solving complex challenges and delivering real-world impact through code. Always happy to connect!
 
-<h3 align="left">Hi! I'm Hassan 👋</h3>
+Connect with me on [LinkedIn](https://www.linkedin.com/in/hassan-abid-amin/)
 
-###
+---
 
-<h4 align="left">A Software Engineering Student</h4>
+## 📂 Projects
 
-###
+### 👨‍💻 WE.AI ([GitHub](https://github.com/habid22))
+Developed an AI-powered assistant for Western Engineering students offering academic support, career advice, and technical help.
 
-<div align="left">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
-</div>
+- Built with JavaScript, Python, Next.js, GCP, and TailwindCSS.
+- Integrated machine learning for real-time personalized recommendations.
+- Added web scraping to automatically extract relevant data from course and career sites.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/2560px-Amazon_Web_Services_Logo.svg.png" height="30" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-</div>
+### 🚀 CHEER Platform ([GitHub](https://github.com/habid22/CHEER-Application))
+A web app designed to enhance community engagement for individuals with intellectual disabilities.
 
-###
+- Technologies: JavaScript, React, Node.js, GCP
+- Added accessible features like text-to-speech, event calendars, and photo galleries.
+- Used Agile/Scrum methodology with iterative sprints and feedback loops.
 
-<div align="left">
-  
-  </a>
-</div>
+---
 
-###
+### ♻️ carbontracker ([GitHub](https://github.com/habid22/carbon.io) | [Live Demo](https://urcarbontracker.vercel.app/))
+Interactive carbon footprint tracker with visual insights and automated PDF reports.
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=habid22&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=habid22&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
+- Stack: TypeScript, Next.js, React, Node.js, Three.js, PDFKit
+- Created 3D visualizations and automated emission reports.
+- Built scalable backend for processing and user data.
 
-###
+---
 
-<img src="https://raw.githubusercontent.com/habid22/habid22/output/snake.svg" alt="Snake animation" />
+### 🛡️ urFace (Startup)
+Worked as a Software Developer on a beauty tech startup in the Asian market.
 
-###
+- Used React, Node.js, Python to build scalable microservices and frontend features.
+- Integrated ML models to personalize skincare recommendations.
+- Collaborated in Agile teams to accelerate feature delivery and maintain quality.
+
+---
+
+### 🤖 Headstarter AI Fellowship
+Selected for a competitive software engineering fellowship with mentorship from Google and startup engineers.
+
+- Worked with React, Python, and AWS to solve AI-focused challenges.
+- Delivered weekly demos and participated in technical interviews.
+- Strengthened full-stack, AI/ML, and teamwork skills.
+
+---
+
+> You can explore more on my [Portfolio](https://hassan-amin-portfolio.vercel.app/)
+
+---
+
+## 🛠️ Skills & Technologies
+
+**Languages**  
+JavaScript, TypeScript, Python, Java, C++, SQL, HTML, CSS
+
+**Frameworks & Libraries**  
+React.js, Next.js, Node.js, Express.js, TailwindCSS, Redux, Three.js
+
+**Tools & Platforms**  
+Google Cloud Platform, AWS, Firebase, Docker, MongoDB, MySQL, Git, Jira, Postman, Figma, Linux
+
+**Other**  
+Agile & Scrum, CI/CD, REST APIs, Web Scraping, Machine Learning (scikit-learn), PDF Generation, OAuth, Authentication
