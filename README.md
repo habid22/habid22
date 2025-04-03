@@ -8,7 +8,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/hassan-abid-amin/)
 
 ## 📂 Projects
 
-### 👨‍💻 WE.AI ([GitHub](https://github.com/habid22))
+### 👨‍💻 WE.AI ([GitHub]([https://github.com/habid22](https://github.com/jpayippa/WE.AI)))
 Developed an AI-powered assistant for Western Engineering students offering academic support, career advice, and technical help.
 
 - Built with JavaScript, Python, Next.js, GCP, and TailwindCSS.
