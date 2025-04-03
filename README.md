@@ -1,6 +1,6 @@
 ## Hassan's GitHub! 🌟
 
-Hello 🙂 my name is Hassan. I'm a third-year Software Engineering student at Western University with a strong passion for full-stack development, artificial intelligence, and building meaningful technology. I enjoy solving complex challenges and delivering real-world impact through code. Always happy to connect!
+Hello 🙂 my name is Hassan. Software Engineering student at Western University with a strong passion for full-stack development, artificial intelligence, and building meaningful technology. I enjoy solving complex challenges and delivering real-world impact through code. Always happy to connect!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/hassan-abid-amin/)
 
