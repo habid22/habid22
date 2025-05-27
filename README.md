@@ -8,7 +8,7 @@
 
 ## 👋 Hi
 
-I'm a Software Engineering student at Western University with a strong passion for full-stack development, artificial intelligence, and building meaningful technology. I enjoy solving complex challenges and delivering real-world impact through code. Always happy to connect!
+I'm a Software Engineering with a strong passion for full-stack development, artificial intelligence, and building meaningful technology. I enjoy solving complex challenges and delivering real-world impact through code. Always happy to connect!
 
 ---
 
