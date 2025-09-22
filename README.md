@@ -1,113 +1,37 @@
-<div align="center">
-  https://hassan-amin.vercel.app/
-</div>
+# Hi, I'm Hassan Amin 👋
 
-
-
----
-
-## 👋 Hi
-
-I'm a Software Engineering with a strong passion for full-stack development, artificial intelligence, and building meaningful technology. I enjoy solving complex challenges and delivering real-world impact through code. Always happy to connect!
+**Software Engineer | Full-Stack Developer | Problem Solver**  
+I design and build reliable, scalable, and efficient software systems.  
+Focused on writing clean code, improving user experiences, and delivering impactful solutions.  
+Always learning. Always building.  
 
 ---
 
-## 📂 Projects
-
-### 👨‍💻 [WE.AI](https://github.com/habid22/WE.AI)
-An AI-powered assistant for Western Engineering students offering academic support, career advice, and technical help.
-
-- Built with JavaScript, Python, Next.js, GCP, and TailwindCSS
-- Integrated ML for real-time personalized recommendations
-- Web scraping to auto-fetch relevant course/career content
+## 🛠 Tech & Tools  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,react,nextjs,nodejs,java,cpp,gcp,firebase,postgresql,mysql,git,linux,docker&theme=light" />
+</p>  
 
 ---
 
-### 🚀 [CHEER Platform](https://github.com/habid22/CHEER-Application)
-A community engagement platform for individuals with intellectual disabilities.
-
-- Tech: JavaScript, React, Node.js, GCP
-- Features: TTS, interactive calendars, photo galleries
-- Agile workflow with sprints and feedback loops
-
----
-
-### ♻️ [carbontracker](https://github.com/habid22/carbon.io) | [Live Demo](https://urcarbontracker.vercel.app/)
-Carbon footprint tracker with 3D visual insights and downloadable reports.
-
-- Stack: TypeScript, Next.js, React, Three.js, Node.js, PDFKit
-- Visual analytics + automated PDF generation
-- Backend for real-time user tracking
+## 📌 Featured Projects  
+- 🔬 [**Acne Detection Model**](https://github.com/habid22/acne-detection-model) – Deep learning model for acne detection
+- 🎓 [**WE.AI**](https://github.com/jpayippa/WE.AI) – AI assistant for Western Engineering students, built with NexTJS, GCP, Google Gemini 
+- 📄 [**CodeResume App**](https://github.com/habid22/coderesume-app) – Resume builder with LaTeX-style formatting in Next.js
+- 🤖 [**Facial Emotion Detection Model**](https://github.com/ClutchForce/AI-Research) – Artificial Intelligence Model to detect Facial Emotions
+- 💡 [**CHEER Application**](https://github.com/habid22/CHEER-Application) – Community engagement platform for people with intellectual disabilities with accessibility-focused tools.  
 
 ---
 
-### 🛡️ urFace (Startup)
-Software Developer at a beauty tech startup in the Asian market.
-
-- Built scalable services using React, Node.js, Python
-- Integrated ML for personalized skincare routines
-- Agile teams, rapid releases, high product quality
-
----
-
-### 🤖 Headstarter AI Fellowship
-Selected for a competitive software fellowship with mentorship from Google/startup engineers.
-
-- Projects using React, Python, and AWS
-- Weekly demos, tech interviews, and feedback sessions
-- Focused on AI/ML, full-stack dev, and communication
+## 📊 GitHub Stats  
+<p align="left">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=habid22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=habid22&layout=compact&theme=tokyonight&hide_border=true" />
+</p>  
 
 ---
 
-## 📚 Relevant Coursework
-
-Data Structures and Algorithms, Software Design and Architecture, Software Testing, Operating Systems, Computer Networks,  
-Database Management Systems, Web Development, Information Security, Intro to Machine Learning, Artificial Intelligence I
-
----
-
-## 🛠️ Skills & Technologies
-
-### 💻 Languages  
-JavaScript, TypeScript, Python, Java, C++, SQL, HTML, CSS
-
-### 🔧 Frameworks & Libraries  
-React.js, Next.js, Node.js, Express.js, TailwindCSS, Redux, Three.js
-
-### ☁️ Tools & Platforms  
-Google Cloud Platform, AWS, Firebase, Docker, MongoDB, MySQL, Git, Jira, Postman, Figma, Linux
-
-### 🧠 Other  
-Agile & Scrum, CI/CD, REST APIs, Web Scraping, Machine Learning (scikit-learn), PDF Generation, OAuth, Authentication
-
----
-
-## 🚀 Tech Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" />
-</div>
-
----
-
-## 📊 GitHub Stats (Past Year)
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=habid22&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=habid22&theme=tokyonight&hide_border=false" height="150" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<img src="https://raw.githubusercontent.com/habid22/habid22/output/snake.svg" alt="Snake animation" />
+## 🌍 Connect with Me  
+- 🌐 [Portfolio](https://hassan-amin.vercel.app/)  
+- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
+- 📧 **your.email@example.com**  
