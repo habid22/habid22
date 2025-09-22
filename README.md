@@ -33,5 +33,4 @@ Always learning. Always building.
 
 ## 🌍 Connect with Me  
 - 🌐 [Portfolio](https://hassan-amin.vercel.app/)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourlinkedin)  
-- 📧 **your.email@example.com**  
+- 📧 [Email](habid22@uwo.ca)
